@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-image: url("https://www.elsevier.com/__data/assets/image/0011/997553/Laptop-iStock.jpg");
+    font-family: Rockwell;
+
+}
+#add
+{
+    font-family: Rockwell;
+    border: 100px;
+    padding: 10px 10px ;
+    cursor: pointer;
+
+}
+h1 {
+    color: grey;
+    margin-right: 50px;
+  }
+.remove
+{
+    margin-top:13px;
+    float:right;
+    clear:both;
+    padding-right:20px;
+    border-radius:5px;
+    width:60px;
+    height:20px;
+    border-style:none;
+    margin-right: 300px;
+}
+ul{
+    list-style: none;
+    text-align: left;
+    margin-left: 410px;
+    line-height: 35px;
+    color: white;
+}
+#task
+{
+    width:300px;
+    margin-left: 20px;;
+}
+#wrapper
+{
+    background-color:none;
+    
+    
+
+}
